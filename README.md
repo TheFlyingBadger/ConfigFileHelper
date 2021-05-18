@@ -6,3 +6,9 @@ Python helper library for dealing with config files in the following formats
 - JSON
 - XML
 - INI
+
+
+
+pip install ConfigFIleHelper
+
+
